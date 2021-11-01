@@ -45,3 +45,4 @@ or
     "target": "es6",
     "module": "ESNEXT",  
     ```
+5. 發佈(?)指令 `npm run build`
